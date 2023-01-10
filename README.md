@@ -29,6 +29,8 @@ The project is based on a classification model through a Neural Network for the 
 * Compilation of 1,500 images of the models selected for classification: Rolex Submariner Date, Cartier Santos 100, Omega Speedmaster Moonwatch, Patek Philippe Nautilus and Hublot Big Bang
 * Compilation of 15,000 data records of the brands selected for valuation: Rolex, Cartier, Omega, Patek Philippe, Hublot, Seiko, Tissot, Hamilton, Richard Mille and Casio.
 
+![Captura de pantalla_20230110_121809](https://user-images.githubusercontent.com/119113483/211543426-696984cf-19f3-496b-993c-990aea3aafd7.png)
+
 ## EDA 📊📈
 
 We can see a preview of some elements of the exploratory analysis
