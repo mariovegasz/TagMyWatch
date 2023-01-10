@@ -6,7 +6,6 @@ The project is based on a classification model through a Neural Network for the 
 
 ![Captura de pantalla_20230110_115442](https://user-images.githubusercontent.com/119113483/211534190-2bd29697-5ca8-4eae-8524-3557573e5104.png)
 
-
 ## Technologies 💻
 
 * Programming language: Python
